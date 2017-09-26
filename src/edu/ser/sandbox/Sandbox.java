@@ -21,7 +21,7 @@ public class Sandbox {
 
     public static void main(String args[]){
         Number n = new Integer(1);
-        test (n.intValue());
+     //   test (n.intValue());
     }
 }
 
